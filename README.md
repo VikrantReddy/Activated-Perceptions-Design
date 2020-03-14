@@ -5,6 +5,6 @@
 
 ### Techonologies used
 * Adobe XD, Photoshop, Illustrator
-#### ⋅⋅* Flutter, Dart
-#### ⋅⋅* Django, Python
+* Flutter, Dart
+* Django, Python
 
