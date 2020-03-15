@@ -8,5 +8,6 @@
 * Flutter, Dart
 * Django, Python
 
-### Donations are accepted via PayPal Link: paypal.me/VikrantReddy47 
+### Donations are accepted via PayPal
+#### Link: paypal.me/VikrantReddy47 
 
