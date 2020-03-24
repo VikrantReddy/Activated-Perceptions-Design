@@ -6,6 +6,7 @@
 ### Techonologies used
 * Adobe XD, Illustrator, Photoshop
 * Flutter, Dart
+* Firebase(Initally)
 * Django, Python
 
 ### Donations are accepted via PayPal
